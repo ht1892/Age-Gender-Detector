@@ -18,7 +18,7 @@ Age and gender detector using machine learning
 8. View results.
 
 #Sample Outputs:
-1.[Sample Output 01](https://github.com/ht1892/Age-Gender-Detector/blob/main/i1.jpg)
-2.[Sample Output 02](https://github.com/ht1892/Age-Gender-Detector/blob/main/i2.jpg)
-3.[Sample Output 03](https://github.com/ht1892/Age-Gender-Detector/blob/main/i3.jpg)
-4.[Sample Output 04]https://github.com/ht1892/Age-Gender-Detector/blob/main/i4.jpg
+1.![Sample Output 01](https://github.com/ht1892/Age-Gender-Detector/blob/main/i1.jpg)
+2.![Sample Output 02](https://github.com/ht1892/Age-Gender-Detector/blob/main/i2.jpg)
+3.![Sample Output 03](https://github.com/ht1892/Age-Gender-Detector/blob/main/i3.jpg)
+4.![Sample Output 04]https://github.com/ht1892/Age-Gender-Detector/blob/main/i4.jpg
